@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+<p> why does this look like HTML </p>
+
 [Link](url) and ![Image](src)
 ```
 
